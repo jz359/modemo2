@@ -40,7 +40,7 @@ scipy==1.0.0
 six==1.11.0
 sklearn==0.0
 smart-open==1.5.6
-tensorflow==1.2.0
+tensorflow==2.5.0
 Unidecode==1.0.22
 urllib3==1.22
 vaderSentiment==2.5
